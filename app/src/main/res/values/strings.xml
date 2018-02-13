@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloCompat</string>
+    <string name="hello_text_string">Hello Joshua Sumardi !</string>
+    <string name="button_label">changeColor</string>
+</resources>
